@@ -1,12 +1,12 @@
 color-theme-pomgranate-explosion
 ================================
 
-An soft and elegant color theme for emacs.
+A soft and elegant color theme for emacs.
 
 Usage
 -----
 
-The Pomgranate Explosion color theme requires emacs [color-theme](http://emacswiki.org/emacs/ColorTheme) plugin. Once you have cloned color-theme-pomgranate-explosion with `git clone https://github.com/bmarcot/color-theme-pomgranate-explosion.git`, be sure to add the following lines to your `.emacs` config file.
+The Pomgranate Explosion color theme requires emacs [color-theme](http://emacswiki.org/emacs/ColorTheme) plugin. Once you have cloned color-theme-pomgranate-explosion with `git clone https://github.com/bmarcot/color-theme-pomgranate-explosion.git`, be sure to add the following lines to your `.emacs` config file (assuming you have downloaded color-theme-pomgranate-explosion to your home directory).
 
     (require 'color-theme)
     (load-file "~/color-theme-pomgranate-explosion/color-theme-pomgranate-explosion.el")
@@ -26,7 +26,7 @@ Check the [color-theme-pomgranate-explosion wiki page](https://github.com/bmarco
 Contact
 -------
 
-For any comments and/or suggestions, please contact me at: `bmarcot AT gmail DOT com`
+For any comments and/or suggestions, please contact me at: `juz4m@hotmail.com (juz4m AT hotmail DOT com)`
 
 Licence
 -------

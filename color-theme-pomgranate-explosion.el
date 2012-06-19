@@ -1,5 +1,6 @@
-;; color-theme-bleen: a blue and green color theme for GNU Emacs
-;; Copyright (C) 2012 Benoit Marcot - bmarcot AT gmail DOT com
+;; color-theme-pomgranate-explosion: a color theme for GNU Emacs
+
+;; Copyright (C) 2012 Benoit Marcot - juz4m AT hotmail DOT com
 
 ;; This program is free software: you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -16,8 +17,7 @@
 ;; <http://www.gnu.org/licenses/>.
 
 (defun color-theme-pomgranate-explosion ()
-  "Color Theme Pomgranate Explosion - Benoit Marcot (bmarcot@gmail.com),
-inspired by color-theme-gallois & Kuler."
+  "Color Theme Pomgranate Explosion - Benoit Marcot (juz4m@hotmail.com)."
   (interactive)
   (color-theme-install
    '(color-theme-pomgranate-explosion

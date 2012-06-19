@@ -26,7 +26,7 @@ Screenshot
 Contact
 -------
 
-For any comment or suggest, contact: bmarcot AT gmail DOT com
+For any comments and/or suggestions, please contact me at: `bmarcot AT gmail DOT com`
 
 Licence
 -------

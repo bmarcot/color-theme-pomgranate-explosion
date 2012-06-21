@@ -11,14 +11,22 @@ The Pomgranate Explosion color theme requires emacs [color-theme](http://emacswi
     (require 'color-theme)
     (load-file "~/color-theme-pomgranate-explosion/color-theme-pomgranate-explosion.el")
     (color-theme-pomgranate-explosion)
-    
-Screenshot
-----------
 
 About the colors
 ----------------
 
-The colors come from the Kuler's color theme [Pomgranate Explosion](http://kuler.adobe.com/#themeID/1923981) by _draghia_.
+The colors come from the excelent Kuler's color theme [Pomgranate Explosion](http://kuler.adobe.com/#themeID/1923981) by _draghia_.
+
+
+Screenshot
+----------
+
+![color-theme-pomgranate-explosion](bmarcot.github.com/color-theme-pomgranate-explosion/img/screenshot.png)
+
+Contact
+-------
+
+For any comment or suggest, contact: bmarcot AT gmail DOT com
 
 Licence
 -------

@@ -1,7 +1,7 @@
 color-theme-pomgranate-explosion
 ================================
 
-A soft and elegant color theme for emacs.
+A soft and elegant color theme for GNU Emacs.
 
 Usage
 -----

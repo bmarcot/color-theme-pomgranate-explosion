@@ -21,7 +21,7 @@ The colors come from the excelent Kuler's color theme [Pomgranate Explosion](htt
 Screenshot
 ----------
 
-Take a look at the color-theme-pomgranate-explosion [wiki](https://github.com/bmarcot/color-theme-pomgranate-explosion/wiki/Screenshot).
+![Pomgranate Explosion screenshot](https://github.com/bmarcot/color-theme-pomgranate-explosion/master/misc/pomexplo_screen.png)
 
 Contact
 -------
